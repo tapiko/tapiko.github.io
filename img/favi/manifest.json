@@ -38,7 +38,7 @@
 			"density": 4
 		}
 	],
-	"start_url": "tapiko.in",
+	"start_url": "http://tapiko.in/",
 	"display": "standalone",
 	"orientation": "portrait"
 }
